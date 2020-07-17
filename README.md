@@ -1,6 +1,6 @@
 # X-Ray-Disease-CNN-Classification
 
-### Final project competition for the Machine Learning Course: Second Best Accuracy in the batch
+### Final project competition for the Machine Learning Course: Second Best Accuracy in the cohort.
 
 #### X-Ray images of 4 types of patients [ Type A, Type B, Type C, Normal ] were shared. Teams had to come up with a classifier with the best accuracy.
 
